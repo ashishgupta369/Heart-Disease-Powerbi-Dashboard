@@ -13,7 +13,7 @@ The objective is to transform raw healthcare data into actionable insights that 
 > Save your dashboard screenshot inside the `Images` folder as `dashboard_overview.png`
 
 ```markdown
-![Dashboard Preview](Heart_Disease_Dashboard_overview.png)
+![Dashboard Preview](Heart_Disease_Dashboard.png)
 ```
 
 ---
